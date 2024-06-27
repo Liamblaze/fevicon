@@ -1,0 +1,1 @@
+<link rel="icon" href="sh.jpg" type="image/x-icon">
